@@ -4,8 +4,8 @@ body {
     align-items: center;
     background-color: rgb(255, 255, 255);
     flex-direction: column;
-    background-image: url(4e84b713cc6e801bf0bc867f388fce1a\ \(1\).jpg);
-    background-size: cover;
+    background-image: url(cosmic-light-trails-3840x2160-20467.jpg);
+    
 }
 .s{
     width: 400px;
@@ -13,18 +13,15 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: rgb(231, 229, 229);
+    background-color: rgba(243, 9, 20, 0.644);
     margin-top: 10px;
-    border:solid 2px rgb(135, 135, 135);
+    border:solid 2px rgba(0, 0, 0, 0.349);
     border-radius: 5px;
-    box-shadow: 0px 1px 1px rgb(0, 0, 0);
+    box-shadow: 0px 1px 1px rgb(14, 14, 14);
     border-radius: 15px;
 }
 
-.password{
-      color: rgba(107, 82, 152, 0.623);
-      font-size: 23px;
-}
+
 .d {
     flex-direction: row;
     display: flex;
@@ -48,9 +45,9 @@ border-radius: 5px;
 }
 .button {
     margin-top: 20px;
-    background-color: #a6a7a6;
+    background-color: #f1c500a1;
     border: none;
-    color: white;
+    color: rgb(242, 197, 247);
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -74,6 +71,7 @@ border-radius: 5px;
 .div1{
     display: flex;
     flex-direction: row;
+
 }
 .div1-2{
     margin-top:20px;
@@ -83,7 +81,7 @@ border-radius: 5px;
     margin-top: 20px;
     background-color: transparent;
     border: none;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 230, 0);
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -101,7 +99,7 @@ border-radius: 5px;
 margin-top: 7%;
 }
 .ul{
-
+color: rgb(240, 159, 9);
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -113,7 +111,7 @@ li{
     list-style: none;
 }
 .div3{
-    background-color: rgb(138, 138, 151);
+    background-color: rgba(240, 85, 14, 0.644);
     width: 50px;
     height: 50px;
     border-radius: 100%;
